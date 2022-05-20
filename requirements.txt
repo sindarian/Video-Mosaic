@@ -1,0 +1,8 @@
+opencv
+numba
+cudatoolkit
+numpy
+pandas
+pillow
+jupyterlab:wq
+
