@@ -1,0 +1,2 @@
+# Video Mosaic
+This repo contains jupyter notebooks to turn a video into a video mosaic. A video mosaic is where each frame of the video is a photomosaic. Inspiration for this was taken from the Cifar100 dataset, Visual Genome dataset (https://visualgenome.org/) and a medium post describing another way to create a photomosaic (https://medium.datadriveninvestor.com/how-to-build-your-mosaic-image-from-scratch-using-python-123e1934e977).
