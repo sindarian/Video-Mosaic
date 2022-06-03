@@ -1,8 +1,7 @@
+pillow
 opencv
-numba
-cudatoolkit
 numpy
 pandas
-pillow
-jupyterlab:wq
-
+pickle
+tensorflow
+matplotlib
